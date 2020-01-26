@@ -1,4 +1,5 @@
-""" Neural Network - Single Perceptron """
+""" Neural Network - Single Perceptron regression """
+
 
 import numpy as np
 
