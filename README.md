@@ -1,2 +1,2 @@
 # Machine-Learning
-Trying to implement different ML models.
+Implementation of different ML models.
